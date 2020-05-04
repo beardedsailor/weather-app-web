@@ -1,0 +1,45 @@
+/*{
+  "coord": { "lon": 74.6, "lat": 30.92 },
+  "weather": [
+    { "id": 500, "main": "Rain", "description": "light rain", "icon": "10d" }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 302.15,
+    "feels_like": 301.11,
+    "temp_min": 302.15,
+    "temp_max": 302.15,
+    "pressure": 1006,
+    "humidity": 66
+  },
+  "visibility": 4000,
+  "wind": { "speed": 8.2, "deg": 20 },
+  "clouds": { "all": 75 },
+  "dt": 1588417801,
+  "sys": {
+    "type": 1,
+    "id": 7585,
+    "country": "IN",
+    "sunrise": 1588378577,
+    "sunset": 1588426841
+  },
+  "timezone": 19800,
+  "id": 1271883,
+  "name": "Firozpur",
+  "cod": 200
+}
+*/
+
+{
+  "sunrise": "2020-05-02 05:46",
+  "lng": 74.617043,
+  "countryCode": "IN",
+  "gmtOffset": 5.5,
+  "rawOffset": 5.5,
+  "sunset": "2020-05-02 19:11",
+  "timezoneId": "Asia/Kolkata",
+  "dstOffset": 5.5,
+  "countryName": "India",
+  "time": "2020-05-02 17:58",
+  "lat": 30.94099
+}
