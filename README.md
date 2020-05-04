@@ -1,3 +1,4 @@
 # weather-app-web
-Check weather of different Places.
-Works with weather api
+Check weather of different Places.<br>
+It works on weather api<br>
+![](1.png)
