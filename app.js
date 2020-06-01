@@ -65,6 +65,16 @@ else if (weather.indexOf("sunny") >= 0) {
   clouds.src="sunny.svg"
 }
 
+else if (weather.indexOf("haze") >= 0) {
+  clouds.src="haze.svg"
+}
+
+else if (weather.indexOf("mist") >= 0) {
+  clouds.src="fog.svg"
+}
+else if (weather.indexOf("smoke") >= 0) {
+  clouds.src="fog.svg"
+}
 else if (weather.indexOf("clear") >= 0) {
   if (timeHour >= 7 && timeHour < 20) {
    clouds.src="clear.svg"
