@@ -29,7 +29,6 @@ function startTime() {
   }, 500);
 }
 
-
 button.addEventListener("click", function (name) {
   fetch(
     "https://api.openweathermap.org/data/2.5/weather?q=" +
