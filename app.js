@@ -8,6 +8,7 @@ var button = document.querySelector(".submit");
 var longitude, latitude, timeHour, timeFull;
 
 window.onload = startTime();
+
 function checkTime(i) {
   if (i < 10) {
     i = "0" + i;
